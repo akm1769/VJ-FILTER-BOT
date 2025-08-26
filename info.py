@@ -15,7 +15,7 @@ API_ID = int(environ.get('API_ID', '10408464
 '))
 API_HASH = environ.get('API_HASH', '  e683a898b9e30ccce1fc69c5e186448e
 ')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7888042647:AAHbpo7pRcg1NQq48-uTeJPfMWoTGKk0pP8")
+BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
@@ -199,5 +199,6 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
